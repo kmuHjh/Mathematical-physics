@@ -1,6 +1,7 @@
 Mathematical-physics
 ====================
 1. round-off
+![Alt text](/problem/round-off_1.JPG)
 2. truncation-error
 3. root
 4. open method
