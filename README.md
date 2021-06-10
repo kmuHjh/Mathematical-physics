@@ -28,3 +28,5 @@ solve mathematical physics problems using python
 ![Alt text](/problem/Least-Square-Regression_3.JPG)
 ## 10. integration
 ![Alt text](/problem/Integration.JPG)
+## 11. ordinary differential equation
+![Alt text](/problem/ordinary-differential-equation.jpg)
