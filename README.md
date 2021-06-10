@@ -29,4 +29,4 @@ solve mathematical physics problems using python
 ## 10. integration
 ![Alt text](/problem/Integration.JPG)
 ## 11. ordinary differential equation
-![Alt text](/problem/ordinary-differential-equation.jpg)
+![Alt text](/problem/ordinary-differential-equations.jpg)
